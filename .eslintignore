@@ -1,0 +1,5 @@
+client/src/assets
+node_modules/
+client/src/plugin/webPlugin.js
+client/src/components/common/mixins
+client/src/components/common/util
